@@ -1,0 +1,19 @@
+{
+  "name": "airbnb-api",
+  "version": "0.0.1",
+  "description": "AirBnB client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "airbnb",
+    "hotel",
+    "apartment",
+    "node",
+    "rest",
+    "client"
+  ],
+  "author": "Malik Nurmatov <mnurmatov@gmail.com> (https://github.com/maliknurmatov)",
+  "license": "BSD-2-Clause"
+}
